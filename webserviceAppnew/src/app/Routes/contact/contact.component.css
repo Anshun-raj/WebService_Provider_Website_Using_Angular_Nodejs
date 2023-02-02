@@ -1,0 +1,7 @@
+form input::placeholder{
+    color: red;
+}
+
+form textarea::placeholder{
+    color: red;
+}
